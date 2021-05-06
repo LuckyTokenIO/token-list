@@ -6430,14 +6430,14 @@
     },
     {
       "chainId": 101,
-      "address": "667SDyj7oNYUqhwRV4SNur7wxN9ZfhKVJbumXwkfLGTs",
-      "symbol": "MEAL",
-      "name": "HUNGRY",
-      "decimals": 10,
-      "logoURI": "https://hungrystatic.b-cdn.net/images/default.png",
-      "tags": [],
+      "address": "DzWgNKrSoTHQQXZvBhcpsQ7EMrHeTVuRM6LAm8Cwr1m4",
+      "symbol": "LUCK",
+      "name": "Lucky",
+      "decimals": 0,
+      "logoURI": "https://lucky-token.online/images/logo1.png",
+      "tags": ["decentralized" , "utility-token"],
       "extensions": {
-        "website": "https://hungrycoin.io/"
+        "website": "https://lucky-token.online/"
       }
     },
     {
